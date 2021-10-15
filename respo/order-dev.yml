@@ -1,1 +1,2 @@
-foo: xs test2.0
+data:
+  foo: xs test2.0
